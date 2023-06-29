@@ -1,5 +1,15 @@
-# PageShopping_das_bolsas_feminina
+Atividade Prática
+Projeto loja virtual com Bootstrap
+● Título da Prática: Aplicação do uso do bootstrap, cards, carousel e imagens em um documento
+HTML
+● Objetivo: Identificar, codificar as propriedades disponíveis do bootstrap e aplicar em
+um documento HTML para reproduzir o site especificado
+● Materiais, Métodos e Ferramentas: Ter uma IDE de desenvolvimento de site para
+poder codificar e visualizar o layout HTML especificado. O software indicado para isso é o visual
+studio code. Contudo, pode ser utilizado qualquer IDE.
+# PageShopping_das_bolsas_feminina 
 Mini Projeto: HTML, CSS E Bootstrap
+
 # NU Descomplica
 
 ![preview] (https://github.com/jaciaradearaujo/PageShopping_das_bolsas_feminina.git)
