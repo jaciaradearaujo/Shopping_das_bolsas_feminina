@@ -3,7 +3,7 @@ Mini Projeto: HTML, CSS E Bootstrap
 # NU Descomplica
 
 ![preview] (https://github.com/jaciaradearaujo/PageShopping_das_bolsas_feminina.git)
-![![bolsas9](https://github.com/jaciaradearaujo/Shopping_das_bolsas_feminina/assets/109833305/efce4abd-1dce-4410-a019-b45a8fa719d1)
+![![bolsas9.jpg](https://github.com/jaciaradearaujo/Shopping_das_bolsas_feminina/assets/109833305/efce4abd-1dce-4410-a019-b45a8fa719d1)
 .jpg](https://pt.vecteezy.com/foto/22385927-saco-isolado-ilustracao-ai-generativo)
 
 Título: Shopping_das_bolsas_feminina 'Ecommerce'
